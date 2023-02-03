@@ -10,7 +10,9 @@
    - `#00FF7F`
    - `#BF40BF`
 
-## language used
-     https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+## Language used :shipit:
+   - CSS (Front-end)
+   - HTML5 (Back-end)
 
-_Obs. Recommend using Live Server extension in your Vscode_
+
+**:o: Obs. Recommend using Live Server extension in your Vscode :o:**
